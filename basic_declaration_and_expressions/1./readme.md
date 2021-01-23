@@ -11,6 +11,7 @@ Mobile : 99-9999999999
 
 ### Solution
 
+```
 #include <stdio.h> 
 
 int main()  {
@@ -19,3 +20,4 @@ int main()  {
     printf("Mobile : 99-9999999999\n"); 
     return(0); 
 }
+```
